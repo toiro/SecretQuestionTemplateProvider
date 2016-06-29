@@ -243,3 +243,4 @@ ModelManifest.xml
 
 # FAKE - F# Make
 .fake/
+/SecretQuestionTemplateProvider/2105AI-20160607221901.csv
